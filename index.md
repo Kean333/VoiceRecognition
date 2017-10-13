@@ -22,6 +22,8 @@ Created [proposal](https://github.com/six0four/StudentSenseHat/blob/master/docum
 
 Created [repository](https://github.com/six0four/StudentSenseHat). Also generated a quiz.
 
-### August 30, 2017
+### Week 1
+
+Tech Quiz about microprocessers/toolkit items
 
 Welcome!
