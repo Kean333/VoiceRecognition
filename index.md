@@ -8,24 +8,40 @@ title: simple site
 Example Blog.
 -------------
 
-### Week 1  
+### Week 1 (September 11, 2017)
 
 * Tech Quiz about Microprocessers/Toolkit items.
 * Created GitHub account and setup a repository for the project.
 * Created patng2007.github.io/VoiceRecognition page to blog.
 * Started on the [Project Proposal](https://github.com/patng2007/VoiceRecognition/blob/master/documentation/ProposalContentStudentNameRev02.xlsx) after choosing a sensor to work with. 
 
+### Week 2 (September 18, 2017)
 
-### September 20, 2017
+* Learned how to solder through videos.
+* Emailed the prototype lab the Gerber files for the PCB.
+* Started on the [MSProject Gantt Chart](https://github.com/patng2007/VoiceRecognition/blob/master/documentation/Project_Schedule.pdf).
 
-Created 
+### Week 3 (September 25, 2017)
 
-### September 13, 2017
+* Started on the [Project Budget](https://github.com/patng2007/VoiceRecognition/blob/master/documentation/CENG317%20Budget.xlsx).
+* Discussion about next semester group for Computer Systems Project (CENG355).
+* Switched to markdown (md) instead of index.html as the template wasn't displaying properly when loading the site. 
 
-Created [proposal](https://github.com/six0four/StudentSenseHat/blob/master/documentation/ProposalContentStudentNameRev02.pdf).
+### Week 4 (October 2, 2017)
 
-### September 6, 2017
+* Began to research parts and ordering them. 
+* Waiting for the parts to come in to start filming the unboxing for the build video in the coming weeks. 
+* Attempted to blink the LED on the part crib PI but failed as it couldn't connect and is troubleshooting to see if it the PI or the computer. PI number 143 and 149 has been tested so far. 
+* Received the PCB from the prototype lab.
 
-Created [repository](https://github.com/six0four/StudentSenseHat). Also generated a quiz.
+### Reading Day (October 9, 2017)
+
+* No Class. 
+* Updated the blog to the current week (October 12, 2017).
+
+### Week 5 (October 16, 2017)
+
+* Started to solder the PCB that is dues on week 7. 
+
 
 
