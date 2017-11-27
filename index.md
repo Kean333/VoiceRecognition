@@ -7,10 +7,22 @@ title: simple site
 
 CENG317 VoiceRecognition Patrick Ng
 -------------
+### Week 6 (November 27, 2017)
+
+* Retreived the missing modules for the PCB
+* Finish soldering PCB
+* Updating the blog to current date
+* Filming unboxing part of the video
+
+### Strike (October 16 - November 20)
+
+* (November 20th) Raspberry PI was imaged
+* (November 20th) Blinked the LED 
 
 ### Week 5 (October 16, 2017)
 
 * Started to solder the PCB that is dues on week 7. 
+* Received all the parts that was ordered.
 
 ### Reading Day (October 9, 2017)
 
