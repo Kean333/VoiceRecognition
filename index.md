@@ -8,24 +8,14 @@ title: simple site
 CENG317 VoiceRecognition Patrick Ng
 -------------
 
-### Week 1 (September 11, 2017)
+### Week 5 (October 16, 2017)
 
-* Tech Quiz about Microprocessers/Toolkit items.
-* Created GitHub account and setup a repository for the project.
-* Created patng2007.github.io/VoiceRecognition page to blog.
-* Started on the [Project Proposal](https://github.com/patng2007/VoiceRecognition/blob/master/documentation/ProposalContentStudentNameRev02.xlsx) after choosing a sensor to work with. 
+* Started to solder the PCB that is dues on week 7. 
 
-### Week 2 (September 18, 2017)
+### Reading Day (October 9, 2017)
 
-* Learned how to solder through videos.
-* Emailed the prototype lab the Gerber files for the PCB.
-* Started on the [MSProject Gantt Chart](https://github.com/patng2007/VoiceRecognition/blob/master/documentation/Project_Schedule.pdf).
-
-### Week 3 (September 25, 2017)
-
-* Started on the [Project Budget](https://github.com/patng2007/VoiceRecognition/blob/master/documentation/CENG317%20Budget.xlsx).
-* Discussion about next semester group for Computer Systems Project (CENG355).
-* Switched to markdown (md) instead of index.html as the template wasn't displaying properly when loading the site. 
+* No Class. 
+* Updated the blog to the current week (October 12, 2017).
 
 ### Week 4 (October 2, 2017)
 
@@ -34,14 +24,25 @@ CENG317 VoiceRecognition Patrick Ng
 * Attempted to blink the LED on the part crib PI but failed as it couldn't connect and is troubleshooting to see if it the PI or the computer. PI number 143 and 149 has been tested so far. 
 * Received the PCB from the prototype lab.
 
-### Reading Day (October 9, 2017)
+### Week 3 (September 25, 2017)
 
-* No Class. 
-* Updated the blog to the current week (October 12, 2017).
+* Started on the [Project Budget](https://github.com/patng2007/VoiceRecognition/blob/master/documentation/CENG317%20Budget.xlsx).
+* Discussion about next semester group for Computer Systems Project (CENG355).
+* Switched to markdown (md) instead of index.html as the template wasn't displaying properly when loading the site. 
 
-### Week 5 (October 16, 2017)
+### Week 2 (September 18, 2017)
 
-* Started to solder the PCB that is dues on week 7. 
+* Learned how to solder through videos.
+* Emailed the prototype lab the Gerber files for the PCB.
+* Started on the [MSProject Gantt Chart](https://github.com/patng2007/VoiceRecognition/blob/master/documentation/Project_Schedule.pdf).
+
+### Week 1 (September 11, 2017)
+
+* Tech Quiz about Microprocessers/Toolkit items.
+* Created GitHub account and setup a repository for the project.
+* Created patng2007.github.io/VoiceRecognition page to blog.
+* Started on the [Project Proposal](https://github.com/patng2007/VoiceRecognition/blob/master/documentation/ProposalContentStudentNameRev02.xlsx) after choosing a sensor to work with. 
+
 
 
 
