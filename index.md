@@ -5,7 +5,7 @@ layout: page
 title: simple site
 ---
 
-Example Blog.
+CENG317 VoiceRecognition Patrick Ng
 -------------
 
 ### Week 1 (September 11, 2017)
