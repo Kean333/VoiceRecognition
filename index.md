@@ -9,7 +9,7 @@ CENG317 VoiceRecognition Patrick Ng
 -------------
 ### Week 7 (Decemeber 4, 2017)
 
-<img src="https://raw.githubusercontent.com/patng2007/VoiceRecognition/master/images/PCB.jpg" width="350" height="250">
+<img src="https://raw.githubusercontent.com/patng2007/VoiceRecognition/master/images/PCB.jpg" width="500" height="300">
 
 ### Week 6 (November 27, 2017)
 
