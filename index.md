@@ -9,7 +9,11 @@ CENG317 VoiceRecognition Patrick Ng
 -------------
 ### Week 7 (Decemeber 4, 2017)
 
+* Tested the board by blinking the LED using the code that was provided
+
+* Picture of the completed PCB 
 <img src="https://raw.githubusercontent.com/patng2007/VoiceRecognition/master/images/PCB.jpg" width="200" height="250">
+
 
 ### Week 6 (November 27, 2017)
 
@@ -21,7 +25,7 @@ CENG317 VoiceRecognition Patrick Ng
 ### Strike (October 16 - November 20)
 
 * (November 20th) Raspberry PI was imaged
-* (November 20th) Blinked the LED 
+* Configured to be able to remote into it from a PC/Laptop instead of using an HDMI connection
 
 ### Week 5 (October 16, 2017)
 
