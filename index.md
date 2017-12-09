@@ -12,9 +12,13 @@ CENG317 VoiceRecognition Patrick Ng
 * Tested the board by blinking the LED using the code that was provided
 
 Green Light
+
+
 <img src="https://raw.githubusercontent.com/patng2007/VoiceRecognition/master/images/25130200_1596600073717008_2110699828_o.jpg" width="200" height="250">
 
 Red Light
+
+
 <img src="https://raw.githubusercontent.com/patng2007/VoiceRecognition/master/images/25198686_1596600080383674_1571117686_o.jpg" width="200" height="250">
 
 <img src="https://raw.githubusercontent.com/patng2007/VoiceRecognition/master/images/PCB.jpg" width="200" height="250">
