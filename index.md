@@ -12,8 +12,7 @@ CENG317 VoiceRecognition Patrick Ng
 * Tested the board by blinking the LED using the code that was provided
 
 <img src="https://raw.githubusercontent.com/patng2007/VoiceRecognition/master/images/PCB.jpg" width="200" height="250">
-* Picture of the completed PCB 
-
+Picture of the completed PCB 
 
 ### Week 6 (November 27, 2017)
 
