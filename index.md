@@ -24,7 +24,7 @@ Picture of the completed PCB
 ### Strike (October 16 - November 20)
 
 * (November 20th) Raspberry PI was imaged
-* Configured to be able to remote into it from a PC/Laptop instead of using an HDMI connection
+* Configured the PI to be able to remote into it from a PC/Laptop instead of using an HDMI connection
 
 ### Week 5 (October 16, 2017)
 
