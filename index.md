@@ -28,12 +28,12 @@ Red Light
 * Testing ghmain (While testing the senser, the temperature reading were negative. I think is has to do with the voltage error I had while testing it on Vlad fixer before putting it on my PI).
 
 
-<img src="https://raw.githubusercontent.com/patng2007/VoiceRecognition/master/images/CENG317%20GHMAIN.PNG" width="200" height="250">
+<img src="https://raw.githubusercontent.com/patng2007/VoiceRecognition/master/images/CENG317%20GHMAIN.PNG" width="300" height="250">
 
 * Testing BME280 (Also tried to use i2cdetect to see if the sensor were being detected)
 
 
-<img src="https://raw.githubusercontent.com/patng2007/VoiceRecognition/master/images/CENG317%20bme280.PNG" width="200" height="250">
+<img src="https://raw.githubusercontent.com/patng2007/VoiceRecognition/master/images/CENG317%20bme280.PNG" width="300" height="250">
 
 ### Week 6 (November 27, 2017)
 
