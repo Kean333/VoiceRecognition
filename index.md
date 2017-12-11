@@ -13,6 +13,7 @@ Placard
 
 <img src="https://raw.githubusercontent.com/patng2007/VoiceRecognition/master/images/Placard%20PatrickNg.png" width="200" height="300">
 [Link to the placard](https://raw.githubusercontent.com/patng2007/VoiceRecognition/master/images/Placard%20PatrickNg.png) 
+
 ### Week 7 (Decemeber 4, 2017)
 * Picture of the completed PCB 
 
