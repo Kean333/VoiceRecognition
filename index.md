@@ -8,12 +8,22 @@ title: simple site
 CENG317 VoiceRecognition Patrick Ng
 -------------
 ### Week 8 (Decemeber 11, 2017)
-Placard 
+* Placard 
 
 
 <img src="https://raw.githubusercontent.com/patng2007/VoiceRecognition/master/images/Placard%20PatrickNg.png" width="300" height="400">
 
 [Link to the placard if you want a closer look at](https://raw.githubusercontent.com/patng2007/VoiceRecognition/master/images/Placard%20PatrickNg.png) 
+
+* Script
+
+Introduction - Welcome to Project Teemo created by Patrick.
+Parts Arrived- Amazon has shipped all the parts together in the same box. The box was left in my mailbox as it didn’t require a signature.
+Parts Assembly - Start with connecting the usb adapter to one of the usb slot on the PI and plug in the speaker and microphone to the 3.5mm input on the adapter. 
+Power up - Power up the PI and run the program.
+Functionality – TTS (Text to Speech), (Speech to Text), Weather, Time, Simple Mathematics
+
+[link to the word doc for the script]https://github.com/patng2007/VoiceRecognition/blob/master/documentation/CENG317%20Video%20Script.docx
 
 ### Week 7 (Decemeber 4, 2017)
 * Picture of the completed PCB 
