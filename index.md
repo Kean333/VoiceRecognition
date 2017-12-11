@@ -11,7 +11,7 @@ CENG317 VoiceRecognition Patrick Ng
 Placard 
 
 
-<img src="https://raw.githubusercontent.com/patng2007/VoiceRecognition/master/images/Placard%20PatrickNg.png" width="200" height="250">
+<img src="https://raw.githubusercontent.com/patng2007/VoiceRecognition/master/images/Placard%20PatrickNg.png" width="200" height="300">
 
 ### Week 7 (Decemeber 4, 2017)
 * Picture of the completed PCB 
