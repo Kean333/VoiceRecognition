@@ -8,6 +8,9 @@ title: simple site
 CENG317 VoiceRecognition Patrick Ng
 -------------
 ### Week 8 (Decemeber 11, 2017)
+Placard 
+
+
 <img src="https://raw.githubusercontent.com/patng2007/VoiceRecognition/master/images/Placard%20PatrickNg.png" width="200" height="250">
 
 ### Week 7 (Decemeber 4, 2017)
