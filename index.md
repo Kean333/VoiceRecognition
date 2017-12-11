@@ -17,15 +17,15 @@ CENG317 VoiceRecognition Patrick Ng
 
 * Script
 
-Introduction - Welcome to Project Teemo created by Patrick.
+Introduction - Welcome to Project Teemo created by Patrick. (Video - Blank screen with writing)
 
-Parts Arrived- Amazon has shipped all the parts together in the same box. The box was left in my mailbox as it didn’t require a signature.
+Parts Arrived- Amazon has shipped all the parts together in the same box. The box was left in my mailbox as it didn’t require a signature. (Video - Unboxing the box with the parts)
 
-Parts Assembly - Start with connecting the usb adapter to one of the usb slot on the PI and plug in the speaker and microphone to the 3.5mm input on the adapter. 
+Parts Assembly - Start with connecting the usb adapter to one of the usb slot on the PI and plug in the speaker and microphone to the 3.5mm input on the adapter. (Video - Putting the parts together like the script says)
 
-Power up - Power up the PI and run the program.
+Power up - Power up the PI and run the program. (Video - Plugging in the PI and run the program)
 
-Functionality – TTS (Text to Speech), (Speech to Text), Weather, Time, Simple Mathematics
+Functionality – TTS (Text to Speech), (Speech to Text), Weather, Time, Simple Mathematics (Video - Blank screen with writing)
 
 [link to the word doc for the script](https://github.com/patng2007/VoiceRecognition/blob/master/documentation/CENG317%20Video%20Script.docx)
 
