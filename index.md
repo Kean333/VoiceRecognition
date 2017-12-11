@@ -23,7 +23,7 @@ Parts Assembly - Start with connecting the usb adapter to one of the usb slot on
 Power up - Power up the PI and run the program.
 Functionality – TTS (Text to Speech), (Speech to Text), Weather, Time, Simple Mathematics
 
-[link to the word doc for the script]https://github.com/patng2007/VoiceRecognition/blob/master/documentation/CENG317%20Video%20Script.docx
+[link to the word doc for the script](https://github.com/patng2007/VoiceRecognition/blob/master/documentation/CENG317%20Video%20Script.docx)
 
 ### Week 7 (Decemeber 4, 2017)
 * Picture of the completed PCB 
