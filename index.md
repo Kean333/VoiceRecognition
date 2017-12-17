@@ -7,6 +7,13 @@ title: simple site
 
 CENG317 VoiceRecognition Patrick Ng
 -------------
+### Week 9 (Decemeber 18, 2017)
+* Video
+
+ <video width="320" height="240" controls>
+  <source src="images/CENG317 30 sec video.mp4" type="video/mp4">
+  </video>
+  
 ### Week 8 (Decemeber 11, 2017)
 * Placard 
 
