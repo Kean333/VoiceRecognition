@@ -6,7 +6,17 @@ title: simple site
 ---
 
 CENG317 VoiceRecognition Patrick Ng
--------------
+------------
+### Week 10 (January 8, 2017)
+* Progress Report
+
+ Dues to the strike that has occurred, my project schedule has been changed. In the past couple of weeks, I have manage to create my video which include unboxing, assembling and functionality of my project. Even through my project did not require the PCB, I had it built and tested to see if I get data and can be used in future project. 
+ 
+	  As of today (January 8th 2018) I have manage to get my sensor working with my raspberry PI to read speech input and output the result of the speech. During this process, I had ran into issue with my sound card as I couldn’t get the output on the sound card so I decide to use the PI 3.5mm jack to connect my speaker in the meantime. Will continue to modify to get it working on the sound card. 
+	With the issue that had occurred on my sound card , it didn’t require me to spend more funds to get a new one as I think I just need to change some setting on my PI. So my financial fund has not changed for this project. 
+ 
+	Only objective that I have left for this project is creating the build instruction so other users can easily follow it and build it for themselves without feeling overwhelm of information that they have to research to get it working.  
+
 ### Week 9 (Decemeber 18, 2017)
 * Video
 
