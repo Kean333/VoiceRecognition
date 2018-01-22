@@ -55,7 +55,7 @@ This project doesnt require you to solder anything as all the parts are connecte
 
 Before powering your PI, make sure the SD card that is included in the kit has NOOBS Operating System installed on it. To check, plug in the SD card to your computer if there are files inside then you are good to go. If you don't have it then [click here for it](https://downloads.raspberrypi.org/NOOBS_latest) and put them into the SD card. 
 
-Once this is done, you can power up your PI and go through instruction to setup the PI.
+Once this is done, you can power up your PI and go through instruction to setup the PI. Reminder, you will need a mouse. keyboard and a monitor to connect to the PI. After finishing the setup, you can setup remote connection which will get rid of the need of a mouse, keyboard and monitor. I used RealVNC as my remote connection. [Link to setup VNC](https://www.realvnc.com/en/connect/docs/raspberry-pi.html#raspberry-pi-setup)
 
 Before you can start installing the software, you have make sure the audio output is set to 3.5mm jack which can be done by going to the top left corner of the PI UI and a dropdown menu will appear. Go down to preferences and audio device setting. Here you can change the sound card so the audio is being outputted to 3.5mm and input from the 3.5mm microphone.
 
