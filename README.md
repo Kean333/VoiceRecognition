@@ -63,7 +63,7 @@ Before you can start installing the software, you have make sure the audio outpu
 
 [Alexa Setup Link](https://github.com/alexa/alexa-avs-sample-app/wiki/Raspberry-Pi#lets-get-started)
 
-Follow this link as it has all the instructions to setup the software for this project. Make sure to not enable the wakeword. 
+Follow this link as it has all the instructions to setup the software for this project. Make sure not to enable the wakeword. 
 
 ### Production Testing
 
