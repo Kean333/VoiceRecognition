@@ -45,7 +45,7 @@ For this project, you could get this up and running in a matter of hours if you 
 3. Connect the USB sound card to one of PI USB port
 4. Connect one end of AUX cable with the speaker and the other end to 3.5mm output on the PI.
 
-[Assembly](https://raw.githubusercontent.com/patng2007/VoiceRecognition/master/images/IMG_0744.JPG)
+[Click for the picture on how it look](https://raw.githubusercontent.com/patng2007/VoiceRecognition/master/images/IMG_0744.JPG)
 
 ### Soldering
 
@@ -67,6 +67,9 @@ Follow this link as it has all the instructions to setup the software for this p
 
 ### Production Testing
 
-
+Once the program has successfully ran the application, you can begin to mess around with the applcation that Amazon has created. Alot of the skills are not included in sample app so this will require you to create the skill in order to get it working (Future Project Idea).
 
 ### Reproducible 
+
+By following these instruction given, you will be able to create your own "Alexa" system on a raspberry PI very easily as you don't have to research anything since it was given to you. I will link my Github which has documents on the project if you feel like reading them. 
+[Github](https://github.com/patng2007/VoiceRecognition)
