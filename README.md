@@ -16,6 +16,8 @@
 
 ### Introduction using a system diagram
 
+![Diagram](https://raw.githubusercontent.com/patng2007/VoiceRecognition/master/images/AWS-Overview2.png)
+
 ### Bill of Materials and Budget
 
 ### Time Commitment
