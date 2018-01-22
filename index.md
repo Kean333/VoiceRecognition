@@ -10,7 +10,7 @@ CENG317 VoiceRecognition Patrick Ng
 ### Week 12 (January 22, 2017)
 
 * Build Instruction
-[link](https://github.com/patng2007/VoiceRecognition/blob/master/README.md)
+[Link](https://github.com/patng2007/VoiceRecognition/blob/master/README.md)
 
 ### Week 11 (January 15, 2017)
 
