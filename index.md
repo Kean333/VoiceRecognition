@@ -7,12 +7,12 @@ title: simple site
 
 CENG317 VoiceRecognition Patrick Ng
 ------------
-### Week 12 (January 22, 2017)
+### Week 12 (January 22, 2018)
 
 * Build Instruction
 [Link](https://github.com/patng2007/VoiceRecognition/blob/master/README.md)
 
-### Week 11 (January 15, 2017)
+### Week 11 (January 15, 2018
 
 * Presentation
 [Link](https://github.com/patng2007/VoiceRecognition/blob/master/documentation/Project%20Teemo%20presentation%20patrick%20ng%20n01104570.pptx)
